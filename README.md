@@ -22,8 +22,8 @@ Listaa vähintään kolme sovellukseesi suunniteltua toimintoa:
 
 ## Verkkolinkit
 
-- **Julkaistu sovellus:** [Lisää tähän GitHub Pages -osoite](https://yourusername.github.io/your-repository/)
-- **GitHub-repositorio:** [Lisää tähän repositorion osoite](https://github.com/yourusername/your-repository)
+- **Julkaistu sovellus:** [Lisää tähän GitHub Pages -osoite](https://vuorigorilla1.github.io/DOM-projekti-WebDev-syksy/)
+- **GitHub-repositorio:** [Lisää tähän repositorion osoite](https://github.com/vuorigorilla1/DOM-projekti-WebDev-syksy)
 - **Projektin videoesittely:** [Lisää tähän videon osoite](https://example.com/)
 
 ## Tietoja sovelluksesta
@@ -81,8 +81,11 @@ Pohdi työtäsi ja oppimisprosessiasi.
 - [JSON.stringify()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify)
 - [Client-side storage](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Client-side_APIs/Client-side_storage)
 - [DOM scriptin introduction](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/DOM_scripting)
+- [Form and buttons in HTML](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/HTML_forms)
+- [Array.prototype.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
+- [JavaScript Full Course for free 🌐](https://www.youtube.com/watch?v=lfmg-EJ8gm4)
 - Käytetty tekoälytyökalu: ChatGPT
-  - Miten työkalua käytettiin: Käytin GPT:tä jos jäin JavaScriptissä jumiin. Käytin sitä myös opettamaan minulle miten skaalaan sivuni kännyköille. 
+  - Miten työkalua käytettiin: Käytin GPT:tä yleisesti jos jäin JavaScriptissä jumiin ja koodin tarkastamiseen virheiden varalta. Käytin sitä myös opettamaan minulle miten skaalaan sivuni kännyköille. 
 
   ## Lisenssi
 
