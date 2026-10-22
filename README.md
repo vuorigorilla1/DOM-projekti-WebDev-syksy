@@ -38,11 +38,9 @@ Listaa vähintään kolme sovellukseesi suunniteltua toimintoa:
 
 ## Sovelluksen käyttö
 
-Kirjoita lyhyet käyttöohjeet sovellukselle.
-
 1. Avaa julkaistu sovellus yllä olevasta linkistä.
 2. Kirjoita albumin nimi tekstikenttään.
-3. Lisää, poista ja lisää suosikkeihin albumeita. Voit merkitä onko ne kunneltu vai ei. Suossikialbumeita voi myös poistaa.
+3. Lisää ja poista albumeita. Voit merkitä onko ne kunneltu vai ei. Voit lisätä albumeitä myös suosikit -osioon ja poistaa ne sieltä halutessasi
 4. LocalStorage tallentaa albumisi.
 
 ## Sovelluksen käynnistäminen paikallisesti
