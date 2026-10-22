@@ -24,7 +24,7 @@ Listaa vähintään kolme sovellukseesi suunniteltua toimintoa:
 
 - **Julkaistu sovellus:** [Linkki GitHub sivustoon](https://vuorigorilla1.github.io/DOM-projekti-WebDev-syksy/)
 - **GitHub-repositorio:** [Linkki repositorioon](https://github.com/vuorigorilla1/DOM-projekti-WebDev-syksy)
-- **Projektin videoesittely:** [Linkki videoesittelyyn](https://example.com/)
+- **Projektin videoesittely:** [Linkki videoesittelyyn](https://youtu.be/KoP84UDqeeU)
 
 ## Tietoja sovelluksesta
 
@@ -55,8 +55,6 @@ Kirjoita lyhyet käyttöohjeet sovellukselle.
 
 Lisää tähän vähintään yksi kuvakaappaus toimivasta sovelluksestasi.
 
-Esimerkki kuvan lisäämisestä:
-
 ![Kuvakaappaus sovelluksesta 1](img/Näyttökuva-1.png)
 ![Kuvakaappaus sovelluksesta 2](img/Näyttökuva-2.png)
 
@@ -73,7 +71,7 @@ Pohdi työtäsi ja oppimisprosessiasi.
 - Mitä parantaisin, jos aikaa olisi enemmän? - Parantaisin toimivuutta. Lisäisin enemmän toimintoja kuten kuinka monta prosenttia albumia on kuunnelta, lisäisin listan mihin voisit laittaa kappaleet jne.
 - Mitä opin HTML:stä, CSS:stä, JavaScriptistä ja DOM-skriptauksesta? HTML ja CSS taitoni kehittyivät vain vähän, mutta sanoisin, että tämä projekti edisti JavaScriptausta ja DOM-scriptausta. Tärkein mitä opin oli miten saan tiedot pysymään lomakkeissa. 
 - Mikä jäi epäselväksi tai mistä haluaisin oppia lisää? - Itselleni ei jäänyt epäselvyyksiä.
-- Oma arvio projektista: **8/10 pistettä**
+- Oma arvio projektista: **7/10 pistettä**
 
 ## Lähteet ja kiitokset
 
