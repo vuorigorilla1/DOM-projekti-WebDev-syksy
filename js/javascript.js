@@ -18,6 +18,7 @@
       naytaListat();
     }
 
+    // lisää albumin listaan
     lomake.addEventListener("submit", function (tapahtuma) {
       tapahtuma.preventDefault(); 
 
@@ -38,6 +39,7 @@
       return nappi;
     }
 
+    //näyttää lisätyt albumit 
     function naytaListat() {
       albumilista.innerHTML = "";
       suosikkilista.innerHTML = "";

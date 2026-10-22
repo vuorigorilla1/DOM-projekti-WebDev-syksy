@@ -85,7 +85,7 @@ Pohdi työtäsi ja oppimisprosessiasi.
 - [Array.prototype.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
 - [JavaScript Full Course for free 🌐](https://www.youtube.com/watch?v=lfmg-EJ8gm4)
 - Käytetty tekoälytyökalu: ChatGPT
-  - Miten työkalua käytettiin: Käytin GPT:tä yleisesti jos jäin JavaScriptissä jumiin ja koodin tarkastamiseen virheiden varalta. Käytin sitä myös opettamaan minulle miten skaalaan sivuni kännyköille. 
+  - Miten työkalua käytettiin: Käytin GPT:tä jos jäin JavaScriptissä jumiin ja koodin tarkastamiseen virheiden varalta. Käytin sitä myös sivun skaalautuvuutta varten.
 
   ## Lisenssi
 
