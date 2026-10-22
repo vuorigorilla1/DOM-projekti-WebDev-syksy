@@ -22,9 +22,9 @@ Listaa vähintään kolme sovellukseesi suunniteltua toimintoa:
 
 ## Verkkolinkit
 
-- **Julkaistu sovellus:** [Lisää tähän GitHub Pages -osoite](https://vuorigorilla1.github.io/DOM-projekti-WebDev-syksy/)
-- **GitHub-repositorio:** [Lisää tähän repositorion osoite](https://github.com/vuorigorilla1/DOM-projekti-WebDev-syksy)
-- **Projektin videoesittely:** [Lisää tähän videon osoite](https://example.com/)
+- **Julkaistu sovellus:** [Linkki GitHub sivustoon](https://vuorigorilla1.github.io/DOM-projekti-WebDev-syksy/)
+- **GitHub-repositorio:** [Linkki repositorioon](https://github.com/vuorigorilla1/DOM-projekti-WebDev-syksy)
+- **Projektin videoesittely:** [Linkki videoesittelyyn](https://example.com/)
 
 ## Tietoja sovelluksesta
 

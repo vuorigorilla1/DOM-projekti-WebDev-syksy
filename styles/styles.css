@@ -53,7 +53,6 @@ h2 {
   border-bottom: 1px solid #596184;
 }
 
-/* Tekstikenttä ja lisäyspainike. */
 .lisays {
   display: flex;
   gap: 8px;
@@ -178,7 +177,7 @@ button:focus-visible {
   display: none !important;
 }
 
-/* tämä on pieniä ruutuja varten */
+/* tämä on pieniä ruutuja varten esim. kännykkä niin ettei albumit ja suosikit mene päällekkäin */
 @media (max-width: 700px) {
   .sivu {
     margin-top: 24px;
