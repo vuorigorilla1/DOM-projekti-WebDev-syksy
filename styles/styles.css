@@ -1,0 +1,193 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #090909;
+  color: #e8e8ef;
+  font: 13px Verdana, Arial, sans-serif;
+  border-top: 7px solid #780e19;
+}
+
+.sivu {
+  max-width: 960px;
+  margin: 35px auto;
+  padding: 0 18px 35px;
+}
+
+h1 {
+  margin: 0 0 8px;
+  color: #c93840;
+  font: bold 38px Georgia, 'Times New Roman', serif;
+  text-align: center;
+}
+
+.kuvaus {
+  margin: 0 0 30px;
+  color: #c2c2d0;
+  text-align: center;
+  line-height: 1.6;
+}
+
+.sisalto {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 18px;
+  align-items: start;
+}
+
+.laatikko {
+  min-width: 0;
+  padding: 16px;
+  background: #080e34;
+  border: 1px solid #8b91b0;
+  border-radius: 5px;
+}
+
+h2 {
+  margin: 0 0 17px;
+  padding-bottom: 9px;
+  color: #f0e7ac;
+  font: bold 19px Georgia, 'Times New Roman', serif;
+  border-bottom: 1px solid #596184;
+}
+
+/* Tekstikenttä ja lisäyspainike. */
+.lisays {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 18px;
+}
+
+.lisays input {
+  flex: 1;
+  min-width: 0;
+  padding: 9px;
+  background: #f1f1f4;
+  color: #181818;
+  font: 13px Verdana, sans-serif;
+  border: 1px solid #a6a6b5;
+  border-radius: 2px;
+}
+
+.lisays input:focus-visible {
+  outline: 2px solid #c2d6ff;
+  outline-offset: 2px;
+}
+
+button {
+  padding: 7px 10px;
+  color: #e9e9f3;
+  background: #252b4e;
+  border: 1px solid #858caa;
+  border-radius: 2px;
+  font: 12px Verdana, sans-serif;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #39436e;
+}
+
+button:focus-visible {
+  outline: 2px solid #f0e7ac;
+  outline-offset: 2px;
+}
+
+.lisaa-nappi {
+  background: #801b25;
+  color: #fff;
+  font-weight: bold;
+}
+
+.lisaa-nappi:hover {
+  background: #a42d38;
+}
+
+.albumi {
+  margin-top: 10px;
+  padding: 13px;
+  background: #11183e;
+  border: 1px solid #444e78;
+}
+
+.albumin-nimi {
+  color: #f0e7ac;
+  font-size: 15px;
+  font-weight: bold;
+  overflow-wrap: anywhere;
+}
+
+.kuuntelu {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 12px;
+  color: #d7d8e4;
+  font-size: 12px;
+}
+
+.kuuntelu label {
+  cursor: pointer;
+}
+
+.kuuntelu input {
+  accent-color: #bc4a55;
+  cursor: pointer;
+}
+
+.albumin-napit {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.poista {
+  color: #ffc3c7;
+  border-color: #89535b;
+}
+
+.poista:hover {
+  background: #63232e;
+}
+
+.suosikkilista {
+  margin: 0;
+  padding-left: 22px;
+}
+
+.suosikkilista li {
+  padding: 8px 0 12px;
+  border-bottom: 1px dotted #596184;
+  overflow-wrap: anywhere;
+}
+
+.suosikkilista .tekstinappi {
+  display: block;
+  margin-top: 9px;
+}
+
+.tyhja {
+  color: #b5b7c9;
+  font-size: 12px;
+}
+
+[hidden] {
+  display: none !important;
+}
+
+/* tämä on pieniä ruutuja varten */
+@media (max-width: 700px) {
+  .sivu {
+    margin-top: 24px;
+    padding: 0 12px 24px;
+  }
+  h1 {
+    font-size: 30px;
+  }
+  .sisalto {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fi">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles/styles.css">
+  <title>AlbumManager</title>
+</head>
+
+<body>
+  <main class="sivu">
+    <h1>AlbumManager</h1>
+    <p class="kuvaus">Lista musiikinkuuntelua varten</p>
+
+    <div class="sisalto">
+      <section class="laatikko">
+        <h2>Albumilista</h2>
+        
+        <form class="lisays" id="albumiLomake">
+          <input id="uusiAlbumi" type="text" placeholder="Kirjoita albumin nimi" aria-label="Albumin nimi" required>
+          <button class="lisaa-nappi" type="submit">Lisää</button>
+        </form>
+        <div id="albumilista"></div>
+      </section>
+      <aside class="laatikko">
+        <h2>Suosikit</h2>
+        <ol class="suosikkilista" id="suosikkilista"></ol>
+        <p class="tyhja" id="eiSuosikkeja">Ei suosikkeja viel.</p>
+      </aside>
+    </div>
+
+  </main>
+  <script src="js/javascript.js"></script>
+</body>
+
+</html>
